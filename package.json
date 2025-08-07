@@ -1,0 +1,22 @@
+{
+  "name": "railway-deploy-hook",
+  "version": "1.0.0",
+  "description": "Simple Railway Function to enable Webhook Deploys",
+  "keywords": [
+    "railway",
+    "webhook",
+    "deploy",
+    "deploy-hook"
+  ],
+  "license": "MIT",
+  "author": "Inaki Breinbauer",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "graphql-request": "^7.2.0",
+    "hono": "^4.8.12"
+  }
+}
