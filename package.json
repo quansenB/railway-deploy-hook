@@ -1,6 +1,6 @@
 {
   "name": "railway-deploy-hook",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple Railway Function to enable Webhook Deploys",
   "keywords": [
     "railway",
@@ -10,6 +10,7 @@
   ],
   "license": "MIT",
   "author": "Inaki Breinbauer",
+  "github": "https://github.com/quansenB/railway-deploy-hook/commits/main/",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
